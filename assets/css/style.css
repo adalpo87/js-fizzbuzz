@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  width: 70%;
+  margin:auto;
+  background-color: aqua;
+  padding: 100px;
+}
+
+#lista{
+  font-size: 20px;
+  text-align: center;
+}
