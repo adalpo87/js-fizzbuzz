@@ -7,9 +7,19 @@
 .container{
   width: 70%;
   margin:auto;
-  background-color: aqua;
   padding: 100px;
 }
+
+header{
+  height: 100px;
+  background-color: chocolate;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+}
+
+
 
 #lista{
   font-size: 20px;
